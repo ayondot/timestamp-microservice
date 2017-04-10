@@ -4,8 +4,8 @@ Returns unix timestamps and natural language dates of date inputs.
 ## Example usage:
 
 ```url
-localhost/December%2015,%202015
-localhost/timestamp-ms.herokuapp.com/1450137600
+localhost/December 15, 2015
+localhost/1450137600
 ```
 
 ## Example output:
